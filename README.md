@@ -45,11 +45,17 @@ A modern, responsive, and interactive **Login-Dashboard Web App** built with **H
 ├── index.html
 
 ├── style.css
+
 ├── script.js
+
 ├── dashboard.html
+
 ├── dashboard.css
+
 ├── profile.html
+
 ├── messages.html
+
 ├── settings.html
 
 
