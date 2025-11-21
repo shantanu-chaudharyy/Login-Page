@@ -41,14 +41,16 @@ A modern, responsive, and interactive **Login-Dashboard Web App** built with **H
 ---
 
 ## 📁 Folder Structure
-├── index.html # Login page
-├── style.css # Login styles
-├── script.js # Login JavaScript
-├── dashboard.html # Dashboard page
-├── dashboard.css # Dashboard + Profile + Messages + Settings styles
-├── profile.html # Profile page
-├── messages.html # Messages page
-├── settings.html # Settings page
+
+├── index.html
+
+├── style.css
+├── script.js
+├── dashboard.html
+├── dashboard.css
+├── profile.html
+├── messages.html
+├── settings.html
 
 
 ---
