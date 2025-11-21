@@ -88,11 +88,3 @@ Glassmorphism design and animations
 
 ---
 
-✅ **Notes for Use**
-
-1. Replace `https://github.com/yourusername/glass-dashboard.git` with your actual GitHub repo URL.  
-2. Add real screenshots in a `screenshots` folder (optional but recommended).  
-3. The Live Preview link can be set after enabling **GitHub Pages** on your repo.  
-
----
-
